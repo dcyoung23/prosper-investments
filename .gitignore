@@ -1,0 +1,14 @@
+# Jupyter Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+__init__.py
+**.pyc
+
+# API Keys
+**api_keys.py*
+
+# All data files due to Licensing Agreement
+**/data
